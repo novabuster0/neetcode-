@@ -1,3 +1,9 @@
+#include <vector>
+#include <map>
+#include <iostream>
+
+using namespace std;
+
 class Solution
 {
 public:
@@ -39,3 +45,8 @@ public:
         return counter.second;
     }
 };
+
+int main(int argc, char const *argv[])
+{
+    return 0;
+}
